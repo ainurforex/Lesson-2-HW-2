@@ -6,7 +6,7 @@ public class Main {
         float deltaWeight;
         totalWeight=boxer1+boxer2;
         deltaWeight=Math.abs(boxer1-boxer2);
-        System.out.println("Общий вес бойцов "+totalWeight+ " кг.");
-        System.out.println("Разница в весе между бойцами "+deltaWeight+ " кг.");
+        System.out.println("Общий вес бойцов  "+totalWeight+ " кг.");
+        System.out.println("Разница в весе между бойцами  "+deltaWeight+ " кг.");
     }
 }
